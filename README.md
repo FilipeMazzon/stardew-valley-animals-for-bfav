@@ -16,7 +16,6 @@ This is a compiled version of all BFAV mods I have the rights to share all toghe
 ### plus installation
 if you don't want some animal from the list below please go ahead and delete the folder which have the selected mod and go play!
 
-###list of mods
 ![image](https://github.com/filipemazzon/stardew-valley-animals-for-bfav/blob/master/folders_image.PNG?raw=true)
 
 ## IMPORTANT
@@ -27,12 +26,12 @@ Please endorse [Paritee's Better Farm Animal Variety (BFAV)](https://www.nexusmo
 - NEVER USE ANY THOSE IMAGES WITHOUT CONTACT THE OWNER WHICH IT'S DESCRIBE ON THE CREDITS!
 ```
 
-##Mods and Credits
+Mods and Credits
 - [mod](https://www.nexusmods.com/stardewvalley/mods/3406) sprites: [Alola Vulpix](https://www.nexusmods.com/stardewvalley/mods/2302) credits to [AlolaVulpixIsLife](https://www.nexusmods.com/stardewvalley/users/54278022)
 - [Kanghaskan,Rhydon,Snorlax,Chansey,Hapinny,Muchlax,Rhyhorn,Phanpy](https://www.nexusmods.com/stardewvalley/mods/2161)﻿ [Latios](https://www.nexusmods.com/stardewvalley/mods/2193) and [Latias](https://www.nexusmods.com/stardewvalley/mods/2193) credits to [MultiValency﻿](https://www.nexusmods.com/stardewvalley/users/52865346)
 - [Miltank,Flaffly and Mareep﻿](https://www.nexusmods.com/stardewvalley/mods/1486) is for [TinyKawaiiSatan](https://www.nexusmods.com/stardewvalley/users/46990013)
 - [Dragonite](https://www.nexusmods.com/stardewvalley/mods/544) credits for [Shrimpxwarrior﻿](https://www.nexusmods.com/stardewvalley/users/38248530)
 - (in construction you can see all on [nexus](https://www.nexusmods.com/stardewvalley/mods/6204)
 
-###Know bugs
+Know bugs
 1. Pokemons ( Glaceon, Glaile, togepi, Venomoth, Latios, Latias,vulpix, Alone vulpix) All of those not showing all body in the game, I need help to fix those ( I don't know the width and height of each Pokemons, those was created to be Monsters or Cat, not new Animals.
