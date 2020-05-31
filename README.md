@@ -16,7 +16,7 @@ This is a compiled version of all BFAV mods I have the rights to share all toghe
 ### plus installation
 if you don't want some animal from the list below please go ahead and delete the folder which have the selected mod and go play!
 
-####list of mods
+###list of mods
 ![image](https://github.com/filipemazzon/stardew-valley-animals-for-bfav/blob/master/folders_image.PNG?raw=true)
 
 ## IMPORTANT
