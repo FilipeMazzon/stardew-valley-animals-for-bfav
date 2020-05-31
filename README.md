@@ -21,7 +21,6 @@ if you don't want some animal from the list below please go ahead and delete the
 ## IMPORTANT
 Please endorse [Paritee's Better Farm Animal Variety (BFAV)](https://www.nexusmods.com/stardewvalley/mods/3296) without him create the first version we couldn't make this mod.
 
-### WARNING!
 ```diff
 - NEVER USE ANY THOSE IMAGES WITHOUT CONTACT THE OWNER WHICH IT'S DESCRIBE ON THE CREDITS!
 ```
