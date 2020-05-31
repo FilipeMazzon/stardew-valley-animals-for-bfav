@@ -1,0 +1,232 @@
+{
+  "Format": "1.0",
+  "Categories": [
+    {
+      "Action": "Update",
+      "Category": "Dairy Cow",
+      "Types": [
+        {
+          "Type": "Kangaskhan",
+          "Data": "1/5/184/186/cow/36/64/64/64/36/64/64/64/1/false/Barn/32/32/32/32/15/5/Milk Pail/639/1500/Kangaskhan/Barn",
+          "Sprites": {
+            "Adult": "assets/Kangaskhan.png",
+            "Baby": "assets/BabyKangaskhan.png"
+          }
+        },
+        {
+          "Type": "Chansey",
+          "Data": "1/5/184/186/cow/36/64/64/64/36/64/64/64/1/false/Barn/32/32/32/32/15/5/Milk Pail/639/1500/Chansey/Barn",
+          "Sprites": {
+            "Adult": "assets/Chansey.png",
+            "Baby": "assets/BabyChansey.png"
+          }
+        },
+        {
+          "Type": "Glaile",
+          "Data": "1/5/184/186/cow/36/64/64/64/36/64/64/64/1/false/Barn/32/32/32/32/15/5/Milk Pail/639/1500/Glaile/Barn",
+          "Sprites": {
+            "Adult": "assets/Glaile.png",
+            "Baby": "assets/Glaile.png"
+          }
+        },
+        {
+          "Type": "Miltank",
+          "Data": "1/5/184/186/cow/36/64/64/64/36/64/64/64/1/false/Barn/32/32/32/32/15/5/Milk Pail/639/1500/Miltank/Barn",
+          "Sprites": {
+            "Adult": "assets/Miltank.png",
+            "Baby": "assets/Miltank.png"
+          }
+        }
+      ]
+    },
+    {
+      "Action": "Update",
+      "Category": "Chicken",
+      "Types": [
+        {
+          "Type": "Alola Vulpix",
+          "Data": "2/6/84/440/cat/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/10/5/null/643/8000/Alola Vulpix/Coop",
+          "Sprites": {
+            "Adult": "assets/AlolaVulpix.png",
+            "Baby": "assets/AlolaVulpix.png"
+          }
+        },
+        {
+          "Type": "Glaceon",
+          "Data": "1/3/176/174/cat/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/641/800/Glaceon/Coop",
+          "Sprites": {
+            "Adult": "assets/Glaceon.png",
+            "Baby": "assets/Glaceon.png"
+          }
+        },
+        {
+          "Type": "Vulpix",
+          "Data": "1/3/176/174/cat/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/641/800/Vulpix/Coop",
+          "Sprites": {
+            "Adult": "assets/Vulpix.png",
+            "Baby": "assets/Vulpix.png"
+          }
+        },
+        {
+          "Type": "Togepi",
+          "Data": "1/3/176/174/cluck/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/641/800/Togepi/Coop",
+          "Sprites": {
+            "Adult": "assets/Togepi.png",
+            "Baby": "assets/Togepi.png"
+          }
+        }
+      ]
+    },
+    {
+      "Action": "Update",
+      "Category": "Duck",
+      "Types": [
+        {
+          "Type": "Latias",
+          "Data": "1/3/565/64/cluck/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/641/3000/Latias/Coop",
+          "Sprites": {
+            "Adult": "assets/Latias.png",
+            "Baby": "assets/Latias.png"
+          }
+        },
+        {
+          "Type": "Latios",
+          "Data": "1/3/564/550/cluck/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/641/3000/Latios/Coop",
+          "Sprites": {
+            "Adult": "assets/Latios.png",
+            "Baby": "assets/Latios.png"
+          }
+        },
+        {
+          "Type": "Haunter",
+          "Data": "1/3/769/-1/cluck/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/641/800/Haunter/Coop",
+          "Sprites": {
+            "Adult": "assets/Haunter.png",
+            "Baby": "assets/Gastly.png"
+          }
+        },
+        {
+          "Type": "Magnimete",
+          "Data": "1/3/176/174/cluck/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/641/800/Magnimete/Coop",
+          "Sprites": {
+            "Adult": "assets/magnimete.png",
+            "Baby": "assets/magnimete.png"
+          }
+        },
+        {
+          "Type": "Venomoth",
+          "Data": "1/3/176/174/cluck/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/4/7/null/641/800/Venomoth/Coop",
+          "Sprites": {
+            "Adult": "assets/Venomoth.png",
+            "Baby": "assets/Venonat.png"
+          }
+        }
+      ]
+    },
+    {
+      "Action": "Update",
+      "Category": "Pig",
+      "Types": [
+        {
+          "Type": "Dragonite",
+          "Data": "1/10/562/-1/pig/24/64/84/64/24/64/84/64/0/false/Barn/32/32/32/32/20/5/null/640/16000/Dragonite/Barn",
+          "Sprites": {
+            "Adult": "assets/dragonite.png",
+            "Baby": "assets/dragonite.png"
+          }
+        },
+        {
+          "Type": "Snorlax",
+          "Data": "1/10/430/-1/pig/24/64/84/64/24/64/84/64/1/false/Barn/32/32/32/32/20/5/Milk Pail/640/20000/Snorlax/Barn",
+          "Sprites": {
+            "Adult": "assets/Snorlax.png",
+            "Baby": "assets/muchlax.png"
+          }
+        },
+        {
+          "Type": "Ponyta",
+          "Data": "1/10/430/-1/pig/24/64/84/64/24/64/84/64/0/false/Barn/32/32/32/32/20/5/null/640/5000/Ponyta/Barn",
+          "Sprites": {
+            "Adult": "assets/Ponyta",
+            "Baby": "assets/BabyPonyta.png"
+          }
+        },
+        {
+          "Type": "Arcanine",
+          "Data": "1/10/430/-1/dogs/24/64/84/64/24/64/84/64/1/false/Barn/32/32/32/32/20/5/Milk Pail/640/16000/Arcanine/Barn",
+          "Sprites": {
+            "Adult": "assets/Arcanine.png",
+            "Baby": "assets/Arcanine.png"
+          }
+        },
+        {
+          "Type": "Shiny Arcanine",
+          "Data": "1/10/430/-1/dogs/24/64/84/64/24/64/84/64/1/false/Barn/32/32/32/32/20/5/Milk Pail/640/16000/Arcanine/Barn",
+          "Sprites": {
+            "Adult": "assets/Shiny Arcanine.png",
+            "Baby": "assets/Shiny Arcanine.png"
+          }
+        }
+      ]
+    },
+    {
+      "Action": "Update",
+      "Category": "Goat",
+      "Types": [
+        {
+          "Type": "Rhydon",
+          "Data": "2/5/544/539/goat/24/64/84/64/24/64/84/64/0/false/Barn/32/32/32/32/10/5/null/644/4000/Rhydon/Barn",
+          "Sprites": {
+            "Adult": "assets/Rhydon.png",
+            "Baby": "assets/rhyhorn.png"
+          }
+        }
+      ]
+    },
+    {
+      "Action": "Update",
+      "Category": "Dinosaur",
+      "Types": [
+        {
+          "Type": "Phanphy",
+          "Data": "7/0/107/-1/none/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/1/8/null/644/1000/Phanphy/Coop",
+          "Sprites": {
+            "Adult": "assets/Phanphy.png",
+            "Baby": "assets/Phanphy.png"
+          }
+        },
+        {
+          "Type": "Larvitar",
+          "Data": "7/0/107/-1/none/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/1/8/null/644/1000/Larvitar/Coop",
+          "Sprites": {
+            "Adult": "assets/Larvitar.png",
+            "Baby": "assets/Larvitar.png"
+          }
+        },
+        {
+          "Type": "Aron",
+          "Data": "7/0/107/-1/none/8/32/48/32/8/32/48/32/0/false/Coop/16/16/16/16/1/8/null/644/1000/Aron/Coop",
+          "Sprites": {
+            "Adult": "assets/Aron.png",
+            "Baby": "assets/Aron.png"
+          }
+        }
+      ]
+    },
+    {
+      "Action": "Update",
+      "Category": "Sheep",
+      "Types": [
+        {
+          "Type": "Flaafy",
+          "Data": "3/4/440/-1/sheep/24/64/84/64/24/64/84/64/1/true/Barn/32/32/32/32/15/5/Shears/644/8000/Flafy/Barn",
+          "Sprites": {
+            "Adult": "assets/Flaafy.png",
+            "Baby": "assets/mareep.png",
+            "ReadyForHarvest": "assets/ShearedFlaafy.png"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "Pokemons Animals",
+  "Author": "Filipe Mazzon Ribeiro",
+  "Version": "2.0.0",
+  "Description": "Add a new Pokemon as a new entry to Data/FarmAnimals",
+  "UniqueID": "mazzon.pokemons",
+  "MinimumApiVersion": "2.5",
+  "UpdateKeys": [ "Nexus:3396"],
+  "ContentPackFor": {
+    "UniqueID": "Paritee.BetterFarmAnimalVariety"
+  }
+}
